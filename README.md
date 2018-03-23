@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 22, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Collin Wade)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Creating a Photo Gallery)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cw13v.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Change src attribute values of img element
+2. Create the figure and img nodes
+3. Append img node to figure node
